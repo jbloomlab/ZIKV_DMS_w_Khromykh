@@ -1,10 +1,10 @@
 # Deep mutational scanning of ZIKV Natal strain in Vero and C6/36 cells
 
 ## Authors
-Yin Xiang Setoh, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), [Alexander Khromykh](https://staff.scmb.uq.edu.au/staff/alexander-khromykh) 
+[Yin Xiang Setoh](https://researchers.uq.edu.au/researcher/1944), [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), [Alexander Khromykh](https://staff.scmb.uq.edu.au/staff/alexander-khromykh) 
 
 ## Goal
-Setoh and Alex are performing deep mutational scanning of the Natal strain of Zika virus. 
+Setoh and Alex performed deep mutational scanning of the Natal strain of Zika virus. 
 They are examining domain III of the E protein.
 
 ## Organization
